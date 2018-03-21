@@ -72,14 +72,14 @@
 		background-image: url('images/bg.jpg');
 		background-position: bottom left;
 		background-repeat: repeat-x;
-		height: 500%;
+		height: 100%;
 		left: 0;
 		opacity: 1;
 		position: fixed;
 		top: 0;
 	}
 
-	@include bg(1024px);
+	@include bg(2250px);
 
 /* Overlay */
 
